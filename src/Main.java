@@ -32,7 +32,7 @@ public class Main {
         // 3. Create the Tree object with the root node
         Tree<String> companyTree = new Tree<>(ceo);
 
-        // 4. Print the entire tree
+        // 4. Print the entire tre
         System.out.println("Company Organizational Chart:");
         companyTree.printTree();
     }
